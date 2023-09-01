@@ -23,6 +23,8 @@ O mapa é formado por algumas regiões, as principais delas são:
 - cidade infectada - cidade isolada pelo oceano, vizinha a cidade central
 - mar costeiro - região de mar aberto onde pode ser encontrado algumas estruturas
 
+obs: grande parte do mapa é coberto por oceanos, as cidades se conectam por meio de trilhos subterraneos e avenidas.
+
 # Modpack
 
 #### Mecanicas
