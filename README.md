@@ -69,6 +69,8 @@ obs: grande parte do mapa é coberto por oceanos, as cidades se conectam por mei
 
 [xtreme Reactors](https://www.curseforge.com/minecraft/mc-mods/extreme-reactors)
 
+[Nuclear Science](https://legacy.curseforge.com/minecraft/mc-mods/nuclear-science)
+
 
 #### Outros
 
