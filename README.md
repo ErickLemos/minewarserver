@@ -35,7 +35,7 @@ obs: grande parte do mapa é coberto por oceanos, as cidades se conectam por mei
 
 [Pollution of the Realms - maquinas agora emitem poluição](https://www.curseforge.com/minecraft/mc-mods/pollution-of-the-realms)
 
-[Advanced Chimneys - completo ao mod anterior, lhe ajudará a lidar com a poluição](https://legacy.curseforge.com/minecraft/mc-mods/advanced-chimneys)
+[Advanced Chimneys - complemento ao mod anterior, lhe ajudará a lidar com a poluição](https://legacy.curseforge.com/minecraft/mc-mods/advanced-chimneys)
 
 [Parcool - Parkour](https://www.curseforge.com/minecraft/mc-mods/parcool)
 
