@@ -57,7 +57,7 @@ obs: grande parte do mapa é coberto por oceanos, as cidades se conectam por mei
 
 [Ballistix - construa bombas, misseis e armas nucleares](https://legacy.curseforge.com/minecraft/mc-mods/ballistix)
 
-[Blastcraft mod - construa bunkers anti bombas](https://legacy.curseforge.com/minecraft/mc-mods/blast-craft)
+[Blastcraft mod - construa bunkers anti bombas, misseis e armas nucleares](https://legacy.curseforge.com/minecraft/mc-mods/blast-craft)
 
 [Modular Force Fields Systems - construa campos de força contra tudo: de monstros a armas nucleares](https://legacy.curseforge.com/minecraft/mc-mods/modular-forcefields)
 
