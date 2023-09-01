@@ -26,6 +26,9 @@ O mapa é formado por algumas regiões, as principais delas são:
 
 obs: grande parte do mapa é coberto por oceanos, as cidades se conectam por meio de trilhos subterraneos e avenidas.
 
+# Regras
+- Sem apelar! Alguns mods podem quebrar a dinamica do game, um deles é o Security Craft. O mod adiciona blocos inquebraveis. Security Craft foi adicionado por conta de outros itens como cameras e cofres. 
+
 # Modpack
 
 #### Mecanicas
