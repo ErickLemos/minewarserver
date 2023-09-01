@@ -14,6 +14,15 @@ A campanha total será dividida em 6 etapas:
 
 Cada fase dará um numero X de pontos, quem tiver mais pontos no final ganha (exceto a "corrida armamentista").
 
+# Mapa
+
+O mapa é formado por algumas regiões, as principais delas são:
+- cidade A - onde o time A ficará
+- cidade B - onde o time B ficará
+- cidade central - cidade que fica entre a cidade A e B
+- cidade infectada - cidade isolada pelo oceano, vizinha a cidade central
+- mar costeiro - região de mar aberto onde pode ser encontrado algumas estruturas
+
 # Modpack
 
 #### Mecanicas
