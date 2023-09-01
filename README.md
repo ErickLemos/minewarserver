@@ -34,8 +34,6 @@ obs: grande parte do mapa é coberto por oceanos, as cidades se conectam por mei
 
 [Advanced Chimneys - completo ao mod anterior, lhe ajudará a lidar com a poluição](https://legacy.curseforge.com/minecraft/mc-mods/advanced-chimneys)
 
-[Roamers - NPC com IA similar a um player](https://www.curseforge.com/minecraft/mc-mods/roamers)
-
 [Parcool - Parkour](https://www.curseforge.com/minecraft/mc-mods/parcool)
 
 [Player Revive - levante seu amigo](https://www.curseforge.com/minecraft/mc-mods/playerrevive)

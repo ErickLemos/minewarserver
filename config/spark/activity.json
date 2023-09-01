@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "ericklemos",
+      "uniqueId": "e634cdd1-aff4-30cd-891b-9ef6031d5741"
+    },
+    "time": 1693566480033,
+    "type": "Profiler",
+    "data": {
+      "type": "file",
+      "value": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\minewar\\config\\spark\\profile-2023-09-01_08.07.59.sparkprofile"
+    }
+  }
+]
