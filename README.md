@@ -13,6 +13,7 @@ A campanha total será dividida em 6 etapas:
 - final (3 pontos) - destruição e ataques em massa das bases
 
 Cada fase dará um numero X de pontos, quem tiver mais pontos no final ganha (exceto a "corrida armamentista").
+Depois da fase inicial "corrida armamentista" os ataques serão permitidos a noite.
 
 # Mapa
 
